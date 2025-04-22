@@ -1,0 +1,16 @@
+pypdf
+pyarrow==14.0.1
+langchain
+langchain_community
+langchain_huggingface
+langchainhub
+faiss-cpu
+langchain-community
+python-dotenv
+streamlit
+langchain_community
+langchain_ollama
+langchain_core
+langchain_groq
+faiss-cpu
+pdfplumber
